@@ -1,0 +1,15 @@
+(
+	shape: Quad(
+		size: (10.0, 8.0),
+		flip: true,
+	),
+  translation: (9.0, 0.0, 19.0),
+	material: (
+		//material_type: "materials/only_color.material_type",
+		material_type: "materials/base_texture.material_type",
+		resources: {
+			"base_color": Color(Rgba(red: 0.2, green: 1.0, blue: 0.5, alpha: 1.0)),
+			"base_texture": Texture("branding/icon-transparent.png"),
+		}
+	)
+)

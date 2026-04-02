@@ -55,3 +55,7 @@ On start the camera and objects are loaded from:
   }
 )
 ```
+
+## Mirror Notice
+
+This repository is a mirror of the original project. Original authorship and commit history are preserved.
